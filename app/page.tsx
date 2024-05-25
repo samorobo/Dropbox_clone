@@ -38,7 +38,7 @@ export default function Home() {
      <p> This video is made for informal and educational purposes only. We do 
       not own or affiliate with Dropbox or/and any of its subsidiaries in 
       any form. Copyriight Disclaimer under section 107 of the Copyright Act 1976,
-      allowance is made for "fair use" of this video for education purposes
+      allowance is made for fair use of this video for education purposes
     </p>
 
 
